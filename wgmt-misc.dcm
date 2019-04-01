@@ -1,3 +1,39 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MIC5501-3.0YMT
+D 300mA Low-dropout Voltage Regulator, Vout 3.0V, Vin up to 5.5V, UDFN-4
+K Micrel LDO voltage regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf
+$ENDCMP
+#
+$CMP MIC5504-1.2YMT
+D 300mA Low-dropout Voltage Regulator, Vout 1.2V, Vin up to 5.5V, UDFN-4
+K Micrel LDO voltage regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf
+$ENDCMP
+#
+$CMP MIC5504-1.8YMT
+D 300mA Low-dropout Voltage Regulator, Vout 1.8V, Vin up to 5.5V, UDFN-4
+K Micrel LDO voltage regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf
+$ENDCMP
+#
+$CMP MIC5504-2.5YMT
+D 300mA Low-dropout Voltage Regulator, Vout 2.5V, Vin up to 5.5V, UDFN-4
+K Micrel LDO voltage regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf
+$ENDCMP
+#
+$CMP MIC5504-2.8YMT
+D 300mA Low-dropout Voltage Regulator, Vout 2.8V, Vin up to 5.5V, UDFN-4
+K Micrel LDO voltage regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf
+$ENDCMP
+#
+$CMP MIC5504-3.3YMT
+D 300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, UDFN-4
+K Micrel LDO voltage regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf
+$ENDCMP
+#
 #End Doc Library
